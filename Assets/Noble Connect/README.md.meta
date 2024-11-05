@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 662e06548d4295445bb8f66021012d93
+timeCreated: 1552034575
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141599
+  packageName: Noble Connect Free
+  packageVersion: 1.40
+  assetPath: Assets/Noble Connect/README.md
+  uploadId: 640059

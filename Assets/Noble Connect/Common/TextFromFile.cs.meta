@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 35c73af1cf66d43448d976a70078d546
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141599
+  packageName: Noble Connect Free
+  packageVersion: 1.40
+  assetPath: Assets/Noble Connect/Common/TextFromFile.cs
+  uploadId: 640059

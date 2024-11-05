@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06e66bd298fb6824b8c530a0da552ba3
+timeCreated: 1552034575
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141599
+  packageName: Noble Connect Free
+  packageVersion: 1.40
+  assetPath: Assets/Noble Connect/NetCode for GameObjects/INSTALL.md
+  uploadId: 640059

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c59cdad990913354685cbb28558a0743
+timeCreated: 1563924994
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141599
+  packageName: Noble Connect Free
+  packageVersion: 1.40
+  assetPath: Assets/Noble Connect/Resources/NobleConnectSettings.asset
+  uploadId: 640059
